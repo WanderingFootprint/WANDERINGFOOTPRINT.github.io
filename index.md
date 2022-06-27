@@ -1,7 +1,6 @@
 ## Welcome to the Optimystic Exchange
 
-You can use the [editor on GitHub](https://github.com/WanderingFootprint/FOOTPRINTS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
+We will be creating and hosting TOML files for [humanitarian projects ](https://www.humanitarian.optimystic.exchange) to view our current projects 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
